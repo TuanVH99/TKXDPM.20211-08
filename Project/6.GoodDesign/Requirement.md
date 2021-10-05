@@ -1,0 +1,1 @@
+**GoodDesign (GD):** Chứa các kết quả thiết kế và mã nguồn đã được cải thiện để đảm bảo một bản thiết kế tốt và tuân theo các nguyên lý thiết kế / sử dụng các mẫu thiết kế

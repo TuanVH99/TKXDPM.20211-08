@@ -1,0 +1,1 @@
+**DetailedDesign (DD):** Kết quả của bước thiết kế chi tiết bao gồm: Thiết kế giao diện (GUI và SystemInterface), Thiết kế lớp và Thiết kế mô hình dữ liệu (E-R Diagram, Database Design)

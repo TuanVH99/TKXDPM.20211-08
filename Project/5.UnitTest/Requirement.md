@@ -1,0 +1,1 @@
+**UnitTest (UT):** Chứa các trường hợp kiểm thử đã thiết kế trên excel, chứa mã nguồn test case trong project chứa mã nguồn chính (nhưng nên tách biệt)
