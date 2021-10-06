@@ -1,4 +1,4 @@
-# Đề tài: .....
+# Đề tài: Xây dựng phần mềm quản lý nhân sự
 
 **Thành viên trong nhóm:**
 1. Ngô Đình long - 20168730
